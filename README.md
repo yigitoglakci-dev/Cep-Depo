@@ -7,3 +7,5 @@ With this app, users can:
 - Track stock levels in warehouses  
 
 Cep Depo makes warehouse management faster and more efficient.
+![APP](/cep1.jpg)
+![APP](/cep2.jpg)
